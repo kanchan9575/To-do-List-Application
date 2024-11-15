@@ -39,7 +39,7 @@ Installation:
 bash
 
 
-git clone https://github.com/your-username/to-do-list-app.git
+git clone https://github.com/kanchan9575/to-do-list-app.git
 
 Navigate to the project directory:
 
@@ -50,7 +50,7 @@ cd to-do-list-app
 
 Usage
 
-Open the to-do.html file in your web browser to start using the To-Do List application.
+Open the to_do.html file in your web browser to start using the To-Do List application.
 
 Contributing:
  Contributions are welcome! Please feel free to submit a pull request or open an issue.
